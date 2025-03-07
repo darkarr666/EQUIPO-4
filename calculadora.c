@@ -12,5 +12,6 @@ int main()
 	prinf("guisanti"); 	
 	prinft("HOlamundodos"); 
 	printf("PRUEBA PUSH"); 
-
+int x = 100; 
+printf("holiuwu"); 
 }
