@@ -9,6 +9,6 @@ int main()
 	printf("buenas");
 	printf("hola mundo");
 	printf("buenas");
-	
+	prinf("guisanti"); 	
 
 }
