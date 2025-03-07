@@ -1,17 +1,18 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
 
-int main()
-{
+void main() {
+    char op;
+    double num1, num2, resultado;
+    
+    while (1) {
+        printf("Ingrese una operación (+, -, *, /): ");
+        scanf(" %c", &op);
+        printf("Ingrese dos números: ");
+        scanf("%lf %lf", &num1, &num2);
 
-	printf("hola mundo");
-	printf("buenas");
-	printf("hola mundo");
-	printf("buenas");
-	prinf("guisanti"); 	
-	prinft("HOlamundodos"); 
-	printf("PRUEBA PUSH"); 
-int x = 100; 
-printf("holiuwu"); 
+        switch (op) {
+            
+        }
+        printf("Resultado: %.2lf\n", resultado);
+    }
 }
