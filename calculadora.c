@@ -7,5 +7,8 @@ int main()
 
 	printf("hola mundo");
 	printf("buenas");
+	printf("hola mundo");
+	printf("buenas");
+	
 
 }
