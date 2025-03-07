@@ -10,5 +10,7 @@ int main()
 	printf("hola mundo");
 	printf("buenas");
 	prinf("guisanti"); 	
+	prinft("HOlamundodos"); 
+	printf("PRUEBA PUSH"); 
 
 }
