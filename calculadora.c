@@ -7,8 +7,10 @@ void main() {
     while (1) {
         printf("Ingrese una operación (+, -, *, /): ");
         scanf(" %c", &op);
-        printf("Ingrese dos números: ");
-        scanf("%lf %lf", &num1, &num2);
+        printf("Ingrese el primer número:\n ");
+        scanf("%lf", &num1);
+	printf("Ingrese el segundo número:\n ");
+	scanf("%lf", &num2); 	
 
         switch (op) {
             case '*':
