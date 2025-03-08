@@ -11,7 +11,9 @@ void main() {
         scanf("%lf %lf", &num1, &num2);
 
         switch (op) {
-            
+            case '*':
+                resultado = num1 * num2;
+                break;
         }
         printf("Resultado: %.2lf\n", resultado);
     }
